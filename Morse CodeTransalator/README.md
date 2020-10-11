@@ -21,3 +21,6 @@ Modules in this project which are needed to be installed:
 | playsound | pip install playsound |
 | PIL | pip install pillow |
 
+I hope you would like it!!!
+
+(My Github Account)[github.com/MayankDev-11]
