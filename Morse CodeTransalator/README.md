@@ -23,4 +23,4 @@ Modules in this project which are needed to be installed:
 
 I hope you would like it!!!
 
-(My Github Account)[github.com/MayankDev-11]
+[My Github Account](github.com/MayankDev-11)
