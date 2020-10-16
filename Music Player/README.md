@@ -9,4 +9,4 @@ Functionality of the music player:
   
 I hope you would like it!!
 
-[My GitHub accout](github.com/MayankDev-11)
+[My GitHub accout](https://github.com/MayankDev-11)
